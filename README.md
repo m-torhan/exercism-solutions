@@ -4,7 +4,7 @@ https://exercism.org/profiles/maciek97x/solutions
 
 ## Progress
 
-* c++ 4/100
+* c++ 5/100
 * python 8/141
 * rust 15/100
 * x86-64 assembly 4/113
